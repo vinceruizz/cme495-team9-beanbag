@@ -1,0 +1,8 @@
+/Debug/
+/Release/
+/build/
+/.settings/
+
+*.o
+*.d
+
